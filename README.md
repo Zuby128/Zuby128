@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @zubeyrberber
-- 👀 I’m a full stack developer who uses PYTHON && JAVASCRİPT languages.
+# Hi there 👋, I’m Zubeyr Berber
+I’m Zübeyr from Turkey, I am a curious fullstack developer, excited to learn new things, interested in writing new codes.
+
+## Skills and Experience
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/html.svg" />
+
+uses PYTHON && JAVASCRİPT languages.
   also using ANGULAR 2+ software, NODEJS, MONGODB, EXPRESS, SQLITE.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuby128)](https://github.com/anuraghazra/github-readme-stats)
