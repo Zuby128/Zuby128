@@ -21,8 +21,9 @@
   <a href="https://github.com/Zuby128/github-readme-stats"><img alt="Zubeyr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuby128&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
 ## Other ...
-💻 I'm currently working on Virtual Health Care Web App
-🌱 I’m currently learning DJANGO.
+<p>💻 I'm currently working on Virtual Health Care Web App</p>
+<p>🌱 when I am free learning DJANGO.</p>
+<p>❤️ kung fu 🥋</p>
 
 ## Languages
 <p>🇹🇷 Turkish</p>
