@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @zubeyrberber
 - 👀 I’m a full stack developer who uses PYTHON && JAVASCRİPT languages.
   also using ANGULAR 2+ software, NODEJS, MONGODB, EXPRESS, SQLITE.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuby128)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I’m currently learning REACT && DJANGO...
 // - 💞️ I’m looking to collaborate on ...
 // - 📫 How to reach me ...
