@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/736x/c8/b6/07/c8b60732d6d3db582e4cbbb8b429cc92.jpg" height="175px"/></a>
+<a href="#"><img width="auto" height="200px" src="https://i.pinimg.com/736x/c8/b6/07/c8b60732d6d3db582e4cbbb8b429cc92.jpg"/></a>
 
 # <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Zubeyr Berber</h1>
 <h3 align="center">I’m Zübeyr from Turkey, I am a passionate fullstack developer, excited to learn new things, interested in writing new codes.</h3>
