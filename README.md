@@ -20,12 +20,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuby128)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/Zuby128/github-readme-stats"><img alt="Zubeyr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuby128&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
+## Other ...
+"*" 
+"*" 🌱 I’m currently learning DJANGO.
 
-- 🌱 I’m currently learning REACT && DJANGO...
-// - 💞️ I’m looking to collaborate on ...
-// - 📫 How to reach me ...
+## Reach Me
+"*" <a href="https://linkedin.com/in/zubeyrberber" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin.svg" alt="express" width="40" height="40"/> </a>
 
-<!---
-Zuby128/Zuby128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
