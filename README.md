@@ -18,6 +18,8 @@
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuby128)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/Zuby128/github-readme-stats"><img alt="Zubeyr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuby128&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
 
 - 🌱 I’m currently learning REACT && DJANGO...
 // - 💞️ I’m looking to collaborate on ...
