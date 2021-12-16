@@ -2,7 +2,9 @@
 I’m Zübeyr from Turkey, I am a curious fullstack developer, excited to learn new things, interested in writing new codes.
 
 ## Skills and Experience
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/angular.svg" />
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
 uses PYTHON && JAVASCRİPT languages.
   also using ANGULAR 2+ software, NODEJS, MONGODB, EXPRESS, SQLITE.
