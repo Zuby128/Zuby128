@@ -25,9 +25,9 @@
 🌱 I’m currently learning DJANGO.
 
 ## Languages
-🇹🇷 Turkish
-🇺🇸 English
-🇨🇳 Chinese
+<p>🇹🇷 Turkish</p>
+<p>🇺🇸 English</p>
+<p>🇨🇳 Chinese</p>
 
 ## Reach Me
 <a href="https://linkedin.com/in/zubeyrberber" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="40" height="40"/> </a>
