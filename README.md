@@ -25,7 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zuby128&show_icons=true&locale=en" alt="zuberman" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zuby128" alt="zuberman" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zuby128)](https://github.com/ryo-ma/github-profile-trophy)
  
 ## Other ...
 <p>💻 I'm currently working on Virtual Health Care Web App</p>
