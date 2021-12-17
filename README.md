@@ -17,8 +17,15 @@
 
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuby128)](https://github.com/anuraghazra/github-readme-stats)
-  <a href="https://github.com/Zuby128/github-readme-stats"><img alt="Zubeyr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuby128&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zuby128&label=Profile%20views&color=0e75b6&style=flat" alt="zuberman" /> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zuby128&show_icons=true&locale=en&layout=compact" alt="zuberman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zuby128&show_icons=true&locale=en" alt="zuberman" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zuby128" alt="zuberman" /></a> </p>
  
 ## Other ...
 <p>💻 I'm currently working on Virtual Health Care Web App</p>
