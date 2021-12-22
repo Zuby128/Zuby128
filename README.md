@@ -29,7 +29,7 @@
  
 ## Other ...
 <p>💻 I'm currently working on Virtual Health Care Web App</p>
-<p>🌱 when I am free learning DJANGO.</p>
+<p>🌱 I learn DJANGO in my free time.</p>
 <p>❤️ kung fu 🥋</p>
 
 ## Languages
