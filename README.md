@@ -38,6 +38,6 @@
 <p>🇨🇳 Chinese</p>
 
 ## Reach Me
-<a href="https://linkedin.com/in/zubeyrberber" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="40" height="40"/> </a> <a href="https://gitlab.com/zberber20" target="_blank"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" height="50"/> </a>
+<a href="https://linkedin.com/in/zubeyrberber" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="40" height="40"/> </a> 
 
 
