@@ -28,8 +28,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zuby128)](https://github.com/ryo-ma/github-profile-trophy)
  
 ## Other ...
-<p>💻 I'm currently working on Virtual Health Care Web App</p>
-<p>🌱 I learn DJANGO in my free time.</p>
+<p>💻 I'm currently working on an Virtual Health Care Web App</p>
+<p>🌱 I learn AZURE in my free time.</p>
 <p>❤️ kung fu 🥋</p>
 
 ## Languages
