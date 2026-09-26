@@ -34,20 +34,7 @@ I'm a **Full Stack Developer** building SaaS & LMS platforms, e-commerce solutio
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <b>Languages & Frameworks</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,redux&perline=8" />
-</p>
-
-<p align="center">
-  <b>Databases, Cloud & DevOps</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,aws,gcp,firebase,githubactions,git&perline=8" />
-</p>
-
-<p align="center">
-  <b>UI & Design</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,html,css,figma&perline=8" />
-</p>
+<p align="center"> <b>Languages</b><br/><br/> <img src="https://skillicons.dev/icons?i=ts,js,py&perline=8" /> </p> <p align="center"> <b>Backend</b><br/><br/> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi&perline=8" /> </p> <p align="center"> <b>Frontend & Mobile</b><br/><br/> <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux&perline=8" /><br/> <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /> </p> <p align="center"> <b>Databases, Cloud & DevOps</b><br/><br/> <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,aws,gcp,firebase,githubactions,git&perline=8" /> </p> <p align="center"> <b>UI & Design</b><br/><br/> <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,html,css,figma&perline=8" /> </p>
 
 ---
 
