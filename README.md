@@ -1,14 +1,31 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+name: Generate Snake
 
-# <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Zubeyr Berber</h1>
-<h3 align="center">I’m Zübeyr from Turkey, I am a passionate fullstack developer</h3>
+on:
+  schedule:
+    - cron: "0 0 * * *"   # her gün bir kez
+  workflow_dispatch:       # elle çalıştırmak için
+  push:
+    branches: [main]
 
-## Languages
-<p>🇹🇷 Turkish</p>
-<p>🇺🇸 English</p>
-<p>🇨🇳 Chinese</p>
+permissions:
+  contents: write
 
-## Reach Me
-<a href="https://linkedin.com/in/zubeyrberber" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="40" height="40"/> </a> 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
