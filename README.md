@@ -27,7 +27,8 @@ I'm a **Full Stack Developer** building SaaS & LMS platforms, e-commerce solutio
 - 📹 Real-time video, voice & messaging with **Agora & WebRTC**
 - 🤖 Currently exploring **AI API integrations**
 - 💬 Ask me about **Node.js, React, Next.js, SaaS architecture**
-- 📫 Reach me at **zubeyrberber@gmail.com**
+- 📫 Reach me at <a href="https://www.linkedin.com/in/zubeyrberber/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- <span>🇹🇷 Turkish</span> | <span>🇺🇸 English</span> | <span>🇨🇳 Chinese</span>
 
 ---
 
